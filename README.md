@@ -25,4 +25,4 @@ A fully integrated three-statement financial model for **Tata Consultancy Servic
 - `TCS_Financial_Model.xlsx` — the full model (Excel)
 
 ### Disclaimer
-Built for educational/portfolio purposes as part of an MBA Finance specialization. Not investment advice.
+Built for educational/portfolio purposes. Not investment advice.
